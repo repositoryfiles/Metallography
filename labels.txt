@@ -1,0 +1,5 @@
+0 Austenite
+1 Ferrite
+2 Ferrite_Perlite
+3 Martensite
+4 Perlite
